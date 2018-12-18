@@ -1,6 +1,6 @@
 ## Welcome to Lili's Resume Pages
 
-**Li Li** was born in Zaozhuang, Shandong Province, China. He received the B.S. degree in information and computing science from the College of Mathematics and Systems Science, Shandong University of Science and Technology, Qingdao, China, in 2015, the M.S. degree in probability theory and mathematical statistics from the College of Mathematics and Systems Science, Shandong University of Science and Technology, Qingdao, China, in 2018. He currently a working toward the Ph.D. degree in control science and engineering from the School of Aerospace Science and Technology, Xidian University, Xi’an, China.
+![Image](lili.jpg)**Li Li** was born in Zaozhuang, Shandong Province, China. He received the B.S. degree in information and computing science from the College of Mathematics and Systems Science, Shandong University of Science and Technology, Qingdao, China, in 2015, the M.S. degree in probability theory and mathematical statistics from the College of Mathematics and Systems Science, Shandong University of Science and Technology, Qingdao, China, in 2018. He currently a working toward the Ph.D. degree in control science and engineering from the School of Aerospace Science and Technology, Xidian University, Xi’an, China.
 
 ### Research Interests
 
