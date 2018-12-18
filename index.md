@@ -8,30 +8,24 @@ Li Li was born in Zaozhuang, Shandong Province, China. He received the B.S. degr
 
 My research interests include but not limited to nonlinear dynamics, control theory and Matlab simulation. Currently, I am researching the dynamical analysis and applications of complex-valued or quaternion-valued delayed neural networks.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Education Background
 
-- Bulleted
-- List
+	Ph.D. in School of Aerospace Science and Technology, Xidian University, China. 
 
-1. Numbered
-2. List
+	M.S. in College of Mathematics and Systems Science, Shandong University of Science and Technology, China.
+
+	B.S. in College of Mathematics and Systems Science, Shandong University of Science and Technology, China.
+
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
+### Publications
+	L. Li, Z. Wang, Y. Li et al. (2018). Hopf Bifurcation Analysis of A Complex-Valued Neural Network Model with Discrete and Distributed Delays, Applied Mathematics and Computation, 330: 152-169. (SCI)
+	L. Li, Z. Wang, J. Lu et al. (2018). Adaptive Synchronization of Fractional-Order Complex-Valued Neural Networks with Discrete and Distributed Delays, Entropy, 20 (2): 124. (SCI)
+	L. Li, Z. Wang, X. Huang et al. (2017). Stability Analysis of A Complex-Valued Neural Network with Both Discrete and Distributed Delays, Chinese Automation Congress 2017, Jinan, China. (EI)
+	Z. Wang, L. Li, Y. Li et al. (2018). Stability and Hopf Bifurcation of A Three-Neuron Network with Multiple Discrete and Distributed Delays, Neural Processing Letters, 48: 1481-1502. (SCI)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lilxiansen/lilxiansen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
