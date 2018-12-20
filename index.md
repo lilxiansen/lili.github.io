@@ -27,7 +27,7 @@ My research interests include but not limited to nonlinear dynamics, control the
 - **L. Li**, Z. Wang, X. Huang et al. (2017). Stability Analysis of A Complex-Valued Neural Network with Both Discrete and Distributed Delays, Chinese Automation Congress 2017, Jinan, China. (EI)
 - Z. Wang, **L. Li**, Y. Li et al. (2018). Stability and Hopf Bifurcation of A Three-Neuron Network with Multiple Discrete and Distributed Delays, Neural Processing Letters, 48: 1481-1502. (SCI)
 
-[<img src="baidu.jpg" width="60">](https://www.baidu.com)
-
+<a href="https://www.baidu.com" target="_blank"> <img src="baidu.jpg" width="60"> </a>
+<a href="https://www.google.com" target="_blank"> <img src="google.jpg" width="60" height="18"> </a>
 
 
